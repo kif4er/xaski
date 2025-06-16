@@ -3,8 +3,3 @@ p {
     width: 500px;
     border: 1px solid black;
 }
-img {
-    display: block;
-    margin-right: auto;
-    max-width: 100%;
-}
